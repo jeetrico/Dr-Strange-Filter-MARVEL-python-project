@@ -1,4 +1,4 @@
-![dr-strange-7251770_1280](https://github.com/user-attachments/assets/f3beda15-63cb-4258-af5c-d5f2d5d2f4e8)
+![final dr-Cover](https://github.com/user-attachments/assets/e5219812-d3dd-4fe0-8dac-71525e5404c2)
 # 🪄 Doctor Strange AR Filter with Python, Mediapipe & OpenCV
 
 Welcome to the **Doctor Strange AR Filter** project, where mysticism meets technology! This project leverages **Python, Mediapipe, and OpenCV** to create an interactive augmented reality (AR) filter inspired by Doctor Strange's spell-casting effects. The filter overlays magical circles onto real-time video, reacting dynamically to hand gestures.
@@ -51,3 +51,4 @@ Check out the demo on [YouTube](https://youtu.be/S_pyjBUPx_o?si=gBITxR8pH1fVpJ4C
 - **LinkedIn**: [Jeet Banerjee](Your-LinkedIn-Profile-URL)
 
 Happy coding, and may the magic be with you! 🪄
+![dr-strange-7251770_1280](https://github.com/user-attachments/assets/f3beda15-63cb-4258-af5c-d5f2d5d2f4e8)
