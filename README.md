@@ -54,7 +54,3 @@ Check out the demo on [YouTube](https://youtu.be/S_pyjBUPx_o?si=gBITxR8pH1fVpJ4C
 - **LinkedIn**: [Jeet Banerjee](Your-LinkedIn-Profile-URL)
 
 Happy coding, and may the magic be with you! 🪄
-
----
-
-This README will give a professional, easy-to-navigate overview of your project while showcasing the technical aspects. Let me know if you'd like any further adjustments!
